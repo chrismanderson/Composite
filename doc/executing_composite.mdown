@@ -1,5 +1,5 @@
-Executing Composite
--------------------
+**Executing Composite**
+
 
 Typical usage involves first setting up the system the first time you
 are going to use it.  All the following assumes two open terminals, A
